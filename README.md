@@ -24,6 +24,9 @@ Anaconda is used for managing my [**dependencies**](https://github.com/udacity/C
 
 ### 2. My project files
 
+(Note: the hyperlinks **only** works if you are on the homepage of this GitHub reop,
+and if you are viewing it in "github.io" you can be redirected by clicking the **View the Project on GitHub** on the top)
+
 * [P1.ipynb](P1.ipynb) is the main code for demos.
 
 * [test_images](test_images) contains the test images.
